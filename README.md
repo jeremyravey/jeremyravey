@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Python</b>
-  - [Class Schedule Sync to Google Calendar](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Class Schedule Sync to Google Calendar](https://github.com/JeroCodess/ClassScheduler)
 
 <h2> 🤳 Connect with me:</h2>
 
