@@ -7,10 +7,12 @@
 - <b>C</b>
   - [Temperature Converter](https://github.com/JeroCodess/temperatureConverter)
 
-<h2> Machine Learning Bootcamp Projects With NAISS <h2>
-- [Predicting Flower Types](https://github.com/JeroCodess/NAISS-Machine-Learning-Bootcamp---Project-1)
-- [Digit Recognition with PyTorch](https://github.com/JeroCodess/NAISS-Machine-Learning-Bootcamp---Project-2)
-- [Cats and Dogs classification with Tensorflow](https://github.com/JeroCodess/NAISS-Machine-Learning-Bootcamp---Project-3)
+<h2> Machine Learning Bootcamp Projects With NAISS </h2>
+
+  - [Predicting Flower Types](https://github.com/JeroCodess/NAISS-Machine-Learning-Bootcamp---Project-1)
+  - [Digit Recognition with PyTorch](https://github.com/JeroCodess/NAISS-Machine-Learning-Bootcamp---Project-2)
+  - [Cats and Dogs classification with Tensorflow](https://github.com/JeroCodess/NAISS-Machine-Learning-Bootcamp---Project-3)
+    
 <h2> 🤳 Connect with me:</h2>
 
 <!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
