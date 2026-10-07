@@ -22,7 +22,6 @@
 
 <!-- [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor -->
-[instagram]: https://www.instagram.com/jeremyravey/
 [linkedin]: https://linkedin.com/in/jeremyravey
 
 <!--
